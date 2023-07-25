@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../test_esp8266/test_esp8266"
+		},
+		{
+			"name": "ESP8266_Control_LEDs",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
